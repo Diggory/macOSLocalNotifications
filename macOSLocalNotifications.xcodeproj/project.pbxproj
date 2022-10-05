@@ -11,7 +11,23 @@
 		DD05BE9B28E9042300D57340 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD05BE9A28E9042300D57340 /* ViewController.swift */; };
 		DD05BE9D28E9042400D57340 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD05BE9C28E9042400D57340 /* Assets.xcassets */; };
 		DD05BEA028E9042400D57340 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD05BE9E28E9042400D57340 /* Main.storyboard */; };
-		DD05BEAB28E9ABAA00D57340 /* notificationSoundBlip.caf in Resources */ = {isa = PBXBuildFile; fileRef = DD05BEAA28E9ABAA00D57340 /* notificationSoundBlip.caf */; };
+		DD1BF97628EC1A7A0047D95E /* toast.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD1BF97528EC1A7A0047D95E /* toast.mp3 */; };
+		DD1BF97828EC1ADF0047D95E /* notificationSoundBlip.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD1BF97728EC1ADF0047D95E /* notificationSoundBlip.mp3 */; };
+		DD1BF97C28EC1E0C0047D95E /* toast.caf in Resources */ = {isa = PBXBuildFile; fileRef = DD1BF97B28EC1E0C0047D95E /* toast.caf */; };
+		DD1BF97E28EC1FF10047D95E /* test.m4a in Resources */ = {isa = PBXBuildFile; fileRef = DD1BF97D28EC1FF10047D95E /* test.m4a */; };
+		DD1BF98028EC203F0047D95E /* test.caf in Resources */ = {isa = PBXBuildFile; fileRef = DD1BF97F28EC203F0047D95E /* test.caf */; };
+		DD1BF98228EC22440047D95E /* test-1.caf in Resources */ = {isa = PBXBuildFile; fileRef = DD1BF98128EC22440047D95E /* test-1.caf */; };
+		DD1BF98428EC22B30047D95E /* test.wav in Resources */ = {isa = PBXBuildFile; fileRef = DD1BF98328EC22B30047D95E /* test.wav */; };
+		DD1BF98628EC23680047D95E /* notificationSoundBlip_stereo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD1BF98528EC23680047D95E /* notificationSoundBlip_stereo.mp3 */; };
+		DD1BF98828EC24010047D95E /* audacity_wav_16bitPCM.wav in Resources */ = {isa = PBXBuildFile; fileRef = DD1BF98728EC24010047D95E /* audacity_wav_16bitPCM.wav */; };
+		DD1BF98A28EC24450047D95E /* audacity.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DD1BF98928EC24450047D95E /* audacity.mp3 */; };
+		DD1BF98C28ED922A0047D95E /* dbl08s.wav in Resources */ = {isa = PBXBuildFile; fileRef = DD1BF98B28ED922A0047D95E /* dbl08s.wav */; };
+		DD1BF98E28ED92310047D95E /* ima08s.wav in Resources */ = {isa = PBXBuildFile; fileRef = DD1BF98D28ED92310047D95E /* ima08s.wav */; };
+		DD1BF99028ED92380047D95E /* pcm3208s.wav in Resources */ = {isa = PBXBuildFile; fileRef = DD1BF98F28ED92380047D95E /* pcm3208s.wav */; };
+		DD1BF99228ED923C0047D95E /* sngl08s.wav in Resources */ = {isa = PBXBuildFile; fileRef = DD1BF99128ED923C0047D95E /* sngl08s.wav */; };
+		DD1BF99428ED92410047D95E /* ulaw08s.wav in Resources */ = {isa = PBXBuildFile; fileRef = DD1BF99328ED92410047D95E /* ulaw08s.wav */; };
+		DD1BF99628ED92FD0047D95E /* M1F1-AlawC-AFsp.aif in Resources */ = {isa = PBXBuildFile; fileRef = DD1BF99528ED92FD0047D95E /* M1F1-AlawC-AFsp.aif */; };
+		DD1BF99828ED93050047D95E /* M1F1-mulawC-AFsp.aif in Resources */ = {isa = PBXBuildFile; fileRef = DD1BF99728ED93050047D95E /* M1F1-mulawC-AFsp.aif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,7 +37,23 @@
 		DD05BE9C28E9042400D57340 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD05BE9F28E9042400D57340 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DD05BEA128E9042400D57340 /* macOSLocalNotifications.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOSLocalNotifications.entitlements; sourceTree = "<group>"; };
-		DD05BEAA28E9ABAA00D57340 /* notificationSoundBlip.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = notificationSoundBlip.caf; sourceTree = "<group>"; };
+		DD1BF97528EC1A7A0047D95E /* toast.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = toast.mp3; sourceTree = "<group>"; };
+		DD1BF97728EC1ADF0047D95E /* notificationSoundBlip.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = notificationSoundBlip.mp3; sourceTree = "<group>"; };
+		DD1BF97B28EC1E0C0047D95E /* toast.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = toast.caf; sourceTree = "<group>"; };
+		DD1BF97D28EC1FF10047D95E /* test.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.m4a; sourceTree = "<group>"; };
+		DD1BF97F28EC203F0047D95E /* test.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.caf; sourceTree = "<group>"; };
+		DD1BF98128EC22440047D95E /* test-1.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "test-1.caf"; sourceTree = "<group>"; };
+		DD1BF98328EC22B30047D95E /* test.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = test.wav; sourceTree = "<group>"; };
+		DD1BF98528EC23680047D95E /* notificationSoundBlip_stereo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = notificationSoundBlip_stereo.mp3; sourceTree = "<group>"; };
+		DD1BF98728EC24010047D95E /* audacity_wav_16bitPCM.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = audacity_wav_16bitPCM.wav; sourceTree = "<group>"; };
+		DD1BF98928EC24450047D95E /* audacity.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = audacity.mp3; sourceTree = "<group>"; };
+		DD1BF98B28ED922A0047D95E /* dbl08s.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = dbl08s.wav; sourceTree = "<group>"; };
+		DD1BF98D28ED92310047D95E /* ima08s.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ima08s.wav; sourceTree = "<group>"; };
+		DD1BF98F28ED92380047D95E /* pcm3208s.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = pcm3208s.wav; sourceTree = "<group>"; };
+		DD1BF99128ED923C0047D95E /* sngl08s.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sngl08s.wav; sourceTree = "<group>"; };
+		DD1BF99328ED92410047D95E /* ulaw08s.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ulaw08s.wav; sourceTree = "<group>"; };
+		DD1BF99528ED92FD0047D95E /* M1F1-AlawC-AFsp.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = "M1F1-AlawC-AFsp.aif"; sourceTree = "<group>"; };
+		DD1BF99728ED93050047D95E /* M1F1-mulawC-AFsp.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = "M1F1-mulawC-AFsp.aif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +91,23 @@
 				DD05BE9C28E9042400D57340 /* Assets.xcassets */,
 				DD05BE9E28E9042400D57340 /* Main.storyboard */,
 				DD05BEA128E9042400D57340 /* macOSLocalNotifications.entitlements */,
-				DD05BEAA28E9ABAA00D57340 /* notificationSoundBlip.caf */,
+				DD1BF97528EC1A7A0047D95E /* toast.mp3 */,
+				DD1BF97728EC1ADF0047D95E /* notificationSoundBlip.mp3 */,
+				DD1BF97B28EC1E0C0047D95E /* toast.caf */,
+				DD1BF97D28EC1FF10047D95E /* test.m4a */,
+				DD1BF97F28EC203F0047D95E /* test.caf */,
+				DD1BF98128EC22440047D95E /* test-1.caf */,
+				DD1BF98328EC22B30047D95E /* test.wav */,
+				DD1BF98528EC23680047D95E /* notificationSoundBlip_stereo.mp3 */,
+				DD1BF98728EC24010047D95E /* audacity_wav_16bitPCM.wav */,
+				DD1BF98928EC24450047D95E /* audacity.mp3 */,
+				DD1BF98B28ED922A0047D95E /* dbl08s.wav */,
+				DD1BF98D28ED92310047D95E /* ima08s.wav */,
+				DD1BF98F28ED92380047D95E /* pcm3208s.wav */,
+				DD1BF99128ED923C0047D95E /* sngl08s.wav */,
+				DD1BF99328ED92410047D95E /* ulaw08s.wav */,
+				DD1BF99528ED92FD0047D95E /* M1F1-AlawC-AFsp.aif */,
+				DD1BF99728ED93050047D95E /* M1F1-mulawC-AFsp.aif */,
 			);
 			path = macOSLocalNotifications;
 			sourceTree = "<group>";
@@ -122,9 +170,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD1BF98228EC22440047D95E /* test-1.caf in Resources */,
+				DD1BF98028EC203F0047D95E /* test.caf in Resources */,
+				DD1BF99628ED92FD0047D95E /* M1F1-AlawC-AFsp.aif in Resources */,
+				DD1BF99028ED92380047D95E /* pcm3208s.wav in Resources */,
+				DD1BF98628EC23680047D95E /* notificationSoundBlip_stereo.mp3 in Resources */,
 				DD05BE9D28E9042400D57340 /* Assets.xcassets in Resources */,
-				DD05BEAB28E9ABAA00D57340 /* notificationSoundBlip.caf in Resources */,
+				DD1BF99428ED92410047D95E /* ulaw08s.wav in Resources */,
 				DD05BEA028E9042400D57340 /* Main.storyboard in Resources */,
+				DD1BF99228ED923C0047D95E /* sngl08s.wav in Resources */,
+				DD1BF97C28EC1E0C0047D95E /* toast.caf in Resources */,
+				DD1BF98E28ED92310047D95E /* ima08s.wav in Resources */,
+				DD1BF98A28EC24450047D95E /* audacity.mp3 in Resources */,
+				DD1BF98828EC24010047D95E /* audacity_wav_16bitPCM.wav in Resources */,
+				DD1BF98C28ED922A0047D95E /* dbl08s.wav in Resources */,
+				DD1BF97828EC1ADF0047D95E /* notificationSoundBlip.mp3 in Resources */,
+				DD1BF99828ED93050047D95E /* M1F1-mulawC-AFsp.aif in Resources */,
+				DD1BF98428EC22B30047D95E /* test.wav in Resources */,
+				DD1BF97E28EC1FF10047D95E /* test.m4a in Resources */,
+				DD1BF97628EC1A7A0047D95E /* toast.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
